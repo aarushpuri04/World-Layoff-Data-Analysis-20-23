@@ -45,6 +45,3 @@ The data cleaning process successfully removed duplicates, standardized the data
 - Yearly rankings of companies based on layoffs, providing insights into the most impacted organizations annually.
 
 This analysis provides valuable insights into layoff patterns, which can be used by stakeholders to understand the impact of economic downturns and make informed decisions for future planning.
-
-### Code and Data
-The SQL code for data cleaning and exploratory data analysis is included in the repository. The cleaned dataset and the results of the analysis can be accessed and further analyzed as needed.
